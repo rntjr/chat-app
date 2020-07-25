@@ -1,10 +1,14 @@
 {
   "compilerOptions": {
+    "jsx": "react",
     "target": "es2017",
     "module": "commonjs",
     "outDir": "dist",
     "lib": [
-      "esnext"
+      "esnext",
+      "dom",
+      "es5",
+      "es6"
     ],
     "noEmit": true,
     "resolveJsonModule": true,

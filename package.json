@@ -37,6 +37,7 @@
     }
   },
   "devDependencies": {
+    "@chat-app/eslint": "*",
     "@commitlint/cli": "^9.1.1",
     "@commitlint/config-conventional": "^9.1.1",
     "@types/jest": "^26.0.7",
